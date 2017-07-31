@@ -3,7 +3,7 @@
 <h2>PROJECT SPECIFICATION</h2>
 <h3>Investigate a Dataset</h3>
 
-_Code Functionality_
+<b>Code Functionality</b>
 <table style="width:100%">
   <tr>
     <th>Criteria</th>
@@ -23,7 +23,7 @@ _Code Functionality_
   </tr>
 </table>
 
-_Quality of Analysis_
+<b>Quality of Analysis</b>
 
 <table style="width:100%">
   <tr>
@@ -36,7 +36,7 @@ _Quality of Analysis_
   </tr>
 </table>
 
-_Data Wrangling Phase_
+<b>Data Wrangling Phase</b>
 
 <table style="width:100%">
   <tr>
@@ -49,7 +49,7 @@ _Data Wrangling Phase_
   </tr>
 </table>
 
-_Exploration Phase_
+<b>Exploration Phase</b>
 
 <table style="width:100%">
   <tr>
@@ -66,7 +66,7 @@ _Exploration Phase_
   </tr>
 </table>
 
-_Conclusions Phase_
+<b>Conclusions Phase</b>
 
 <table style="width:100%">
   <tr>
@@ -79,7 +79,7 @@ _Conclusions Phase_
   </tr>
 </table>
 
-_Communication_
+<b>Communication</b>
 
 <table style="width:100%">
   <tr>
