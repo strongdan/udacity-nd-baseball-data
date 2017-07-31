@@ -4,55 +4,97 @@
 ###Investigate a Dataset
 
 _Code Functionality_
-
-CRITERIA
-MEETS SPECIFICATIONS
-* Does the code work?
-* All code is functional and produces no errors when run. The code given is sufficient to reproduce the results described.
-* Does the project use NumPy and Pandas appropriately?
-* The project uses NumPy arrays and Pandas Series and DataFrames where appropriate rather than Python lists and dictionaries. Where possible, vectorized operations and built-in functions are used instead of loops.
-* Does the project use good coding practices?
-* The code makes use of functions to avoid repetitive code. The code contains good comments and variable names, making it easy to read.
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Meets Specifications</th> 
+  </tr>
+  <tr>
+    <td>* Does the code work?</td>
+    <td>All code is functional and produces no errors when run. The code given is sufficient to reproduce the results described.</td> 
+  </tr>
+  <tr>
+    <td>* Does the project use NumPy and Pandas appropriately?</td>
+    <td>The project uses NumPy arrays and Pandas Series and DataFrames where appropriate rather than Python lists and dictionaries. Where possible, vectorized operations and built-in functions are used instead of loops.</td> 
+  </tr>
+  <tr>
+    <td>* Does the project use good coding practices?</td>
+    <td>The code makes use of functions to avoid repetitive code. The code contains good comments and variable names, making it easy to read.</td> 
+  </tr>
+</table>
 
 _Quality of Analysis_
 
-CRITERIA
-MEETS SPECIFICATIONS
-* Is a question clearly posed?
-* The project clearly states one or more questions, then addresses those questions in the rest of the analysis.
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Meets Specifications</th> 
+  </tr>
+  <tr>
+    <td>* Is a question clearly posed?</td>
+    <td>The project clearly states one or more questions, then addresses those questions in the rest of the analysis.</td> 
+  </tr>
+</table>
 
 _Data Wrangling Phase_
 
-CRITERIA
-MEETS SPECIFICATIONS
-* Is the data cleaning well documented?
-* The project documents any changes that were made to clean the data, such as merging multiple files, handling missing values, etc.
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Meets Specifications</th> 
+  </tr>
+  <tr>
+    <td>* Is the data cleaning well documented?</td>
+    <td>The project documents any changes that were made to clean the data, such as merging multiple files, handling missing values, etc.</td> 
+  </tr>
+</table>
 
 _Exploration Phase_
 
-CRITERIA
-MEETS SPECIFICATIONS
-* Is the data explored in many ways?
-* The project investigates the stated question(s) from multiple angles. At least three variables are investigated using both single-variable (1d) and multiple-variable (2d) explorations.
-* Are there a variety of relevant visualizations and statistical summaries?
-* The project's visualizations are varied and show multiple comparisons and trends. Relevant statistics are computed throughout the analysis when an inference is made about the data.
-* At least two kinds of plots should be created as part of the explorations.
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Meets Specifications</th> 
+  </tr>
+  <tr>
+    <td>* Is the data explored in many ways?</td>
+    <td>The project investigates the stated question(s) from multiple angles. At least three variables are investigated using both single-variable (1d) and multiple-variable (2d) explorations.</td> 
+  </tr>
+  <tr>
+    <td>* Are there a variety of relevant visualizations and statistical summaries?</td>
+    <td><p>The project's visualizations are varied and show multiple comparisons and trends. Relevant statistics are computed throughout the analysis when an inference is made about the data.</p><p>At least two kinds of plots should be created as part of the explorations.</p></td> 
+  </tr>
+</table>
 
 _Conclusions Phase_
 
-CRITERIA
-MEETS SPECIFICATIONS
-* Has the student correctly communicated tentativeness of findings?
-* The results of the analysis are presented such that any limitations are clear. The analysis does not state or imply that one change causes another based solely on a correlation.
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Meets Specifications</th> 
+  </tr>
+  <tr>
+    <td>* Has the student correctly communicated tentativeness of findings?</td>
+    <td>The results of the analysis are presented such that any limitations are clear. The analysis does not state or imply that one change causes another based solely on a correlation.</td> 
+  </tr>
+</table>
 
 _Communication_
 
-CRITERIA
-MEETS SPECIFICATIONS
-* Is the flow of the analysis easy to follow?
-* Reasoning is provided for each analysis decision, plot, and statistical summary.
-* Is the data visualized using appropriate plots and parameter choices?
-* Visualizations made in the project depict the data in an appropriate manner that allows plots to be readily interpreted.
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Meets Specifications</th> 
+  </tr>
+  <tr>
+    <td>* Is the flow of the analysis easy to follow?</td>
+    <td>Reasoning is provided for each analysis decision, plot, and statistical summary.</td> 
+  </tr>
+  <tr>
+    <td>Is the data visualized using appropriate plots and parameter choices?</td>
+    <td>Visualizations made in the project depict the data in an appropriate manner that allows plots to be readily interpreted.</td> 
+  </tr>
+</table>
 
 _Suggestions to Make Your Project Stand Out!_
 * Use Markdown cells to report your findings.
