@@ -2,8 +2,7 @@
 
 Project [rubric](https://review.udacity.com/#!/rubrics/107/view)
 
-<h2>PROJECT SPECIFICATION</h2>
-<h3>Investigate a Dataset</h3>
+<h2>Project Specification: Investigate a Dataset</h2>
 
 <b>Code Functionality</b>
 <table style="width:100%">
