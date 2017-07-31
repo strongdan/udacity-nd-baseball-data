@@ -1,7 +1,7 @@
-# Analyzing baseball data for Udacity's Intro to Programming Nanodegree
+<h1>Analyzing baseball data for Udacity's Intro to Programming Nanodegree</h1>
 * project [rubric](https://review.udacity.com/#!/rubrics/107/view)
-##PROJECT SPECIFICATION
-###Investigate a Dataset
+<h2>PROJECT SPECIFICATION</h2>
+<h3>Investigate a Dataset</h3>
 
 _Code Functionality_
 <table style="width:100%">
@@ -96,7 +96,7 @@ _Communication_
   </tr>
 </table>
 
-_Suggestions to Make Your Project Stand Out!_
+<b>Suggestions to Make Your Project Stand Out!</b>
 * Use Markdown cells to report your findings.
 * Utilize NumPy or Pandas functionality that goes beyond what was covered in the course.
 * Use statistical tests to draw rigorous conclusions where appropriate.
