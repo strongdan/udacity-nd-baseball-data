@@ -1,5 +1,5 @@
 <h1>Analyzing baseball data for Udacity's Intro to Programming Nanodegree</h1>
-* project [rubric](https://review.udacity.com/#!/rubrics/107/view)
+- project <a href="https://review.udacity.com/#!/rubrics/107/view>rubric</a>
 <h2>PROJECT SPECIFICATION</h2>
 <h3>Investigate a Dataset</h3>
 
