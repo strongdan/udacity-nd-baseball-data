@@ -1,6 +1,7 @@
 <h1>Analyzing baseball data for Udacity's Intro to Programming Nanodegree</h1>
 
 * Utilizes Lahman baseball data hosted on data.world
+* Using Pandas and matplotlib
 * Project [rubric](https://review.udacity.com/#!/rubrics/107/view)
 
 <h2>Project Specification: Investigate a Dataset</h2>
